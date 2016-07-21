@@ -1,5 +1,5 @@
 # ArduinoUnoLubController
-Using the Arduino Uno as a Lube controller for Machine lubrication
+Using the Arduino Mini as a Lube controller for Machine lubrication
 
 I was searching for a simple cost effective solution  to make a lube time with manual lubrication and programmable timer witch I could apply to any machine I needed:
 
